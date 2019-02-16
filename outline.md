@@ -347,10 +347,12 @@ If I want to access the user name on this bank account object, I can use the var
 bankAccount["userName"];
 ```
 
-**exercise**
+**exercises**
 1. Try logging the other data from the bankAccount object to the console.
 2. Build your own bankAccount object.
-3. See if you can figure out how to add and subtract money from your bank account object.  
+3. See if you can figure out how to add and subtract money from your bank account object.
+4. Create a playerObject for a character in a hypothetical computer game.  Give your character properties including name, hair color, avatar color, score, currency, whether the character can talk (boolean).
+5. What other data might you store in an object?
 
 
 
