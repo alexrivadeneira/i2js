@@ -1,6 +1,6 @@
 Welcome to Class!
 
-📙 Thanks for coming to class this week - [click here to see the homework exercises.](outline.md)
+⭐⭐⭐ ## Thanks for coming to class this week - [click here to see the homework exercises.](exercises.md)⭐⭐⭐
 ## Part 1 Outline
 
 ### As you come in:
