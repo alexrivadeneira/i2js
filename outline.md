@@ -1,5 +1,6 @@
 Welcome to Class!
 
+📙 Thanks for coming to class this week - [click here to see the homework exercises.](outline.md)
 ## Part 1 Outline
 
 ### As you come in:
@@ -296,12 +297,12 @@ console.log("Is high score unbeaten?", highScore > playerScore);
 ```
 var memberId = 12345;
 var lookupId = 12345;
-console.log("Ids match?", memberId === userId);
+console.log("Ids match?", memberId === lookupId);
 ```
 
 ```
 var firstName = "Bob";
-var lastName = Barker;
+var lastName = "Barker";
 var fullName = firstName + " " + lastName;
 console.log(fullName === "Bob Barker");
 ```
