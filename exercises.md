@@ -1,8 +1,8 @@
 ## Exercises for Week 1
 
-For each code snippet, reason about what output you would expect to see in the console.  First, how many statements should you see in the console?   What assignments are occurring, if any? Then, what exactly should those logs say?   Reason through what you expect to see before you run the code.
+For each code snippet, reason about what output you would expect to see in the console.  First, how many statements should you see in the console?   What variable assignments occur, if any? Then, what exactly should the console log statements say?   Reason through what you expect to see before you run the code.
 
-Be careful to clear the ```<script>``` section of your HTML document before running each snippet, otherwise you could contaminate your variable assignments or just generally make the code more confusion to reason about.
+Be careful to clear the ```<script>``` section of your HTML document before running each snippet, otherwise you could contaminate your variable assignments or just generally make the code more confusing to reason about.
 Snippet 1:
 ```
 console.log("Hi Mom!");
@@ -25,7 +25,7 @@ Snippet 4:
 ```
 var anotherVariable = 100;
 anotherVariable = anotherVariable + 200;
-console.log(myVariable);
+console.log(anotherVariable);
 ```
 
 Snippet 5:
