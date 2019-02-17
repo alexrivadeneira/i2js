@@ -70,7 +70,7 @@ var chessPlayer = {
   "hasBishop": true,
   "hasAllPawns": false,
   "wonGame": false,
-}
+};
 ```
 How would you extract the following data and send it to the console?
 1) Get the number of moves in the game so far
