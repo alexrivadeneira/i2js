@@ -278,7 +278,7 @@ var ball = document.querySelector('.redBall');
 ```
 
 ```
-ball.style.position.left
+ball.style.left
 ```
 would be a good guess.  However, this tells us the position of the ball **after** we make updates after the initial page load.  So, even though the ball does have a left position, it won't register here.
 
@@ -292,10 +292,10 @@ Using the Chrome Dev tools, let's set the position of the ball to a new left pos
 
 ```
 var ball = document.querySelector('.redBall');
-ball.style.position.left = '100px';
+ball.style.left = '100px';
 ```
 
-Now we can see the left position of our ball using ```ball.style.position.left``` because we've made an update after the initial page load.
+Now we can see the left position of our ball using ```ball.style.left``` because we've made an update after the initial page load.
 
 **Exercise**
 In the Chrome JavaScript console, make the ball move across the screen in a few steps, maybe in 100px increments.
